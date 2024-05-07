@@ -1,7 +1,5 @@
 # Easy Entertainment Bookings App by Kim Perez
 
-[GitHub Repo](https://github.com/KXP-Dev/booking-app)
-
 ## Description
 
 Easy Entertainment Bookings is a web application designed to streamline the booking process for various entertainment venues. With an easy-to-use interface and a robust backend system.
@@ -51,55 +49,4 @@ The primary audience for Easy Entertainment Bookings App includes individuals or
 ## Screenshots
 
 [Trello Board Link](https://trello.com/invite/b/5ibKl9tk/ATTIb7e9296002936b0383d898c253120693607CB7E7/booking-app)
-
-### Application Architecture
-![Application Architecture Screenshot](img/application_architecture.jpg)
-
-### Data Flow Diagram
-![Data Flow Diagram Screenshot](img/dataflowdiagram.jpg)
-
-### Miro Board
-![Miro Board Screenshot](/img/board.jpg)
-
-### Miro Description
-![Miro Description Screenshot](img/description.jpg)
-
-### Table
-![Table Screenshot](img/table.jpg)
-
-### Calendar
-![Calendar Screenshot](img/calendar.jpg)
-
-### Timeline
-![Timeline Screenshot](img/timeline.jpg)
-
-### Landing Page
-![Landing Page Screenshot](img/landingpage.jpg)
-
-### Dashboard
-![Dashboard Screenshot](img/adminuserdash.jpg)
-
-### Booking Page
-![Booking Page Screenshot](img/bookingactivities.jpg)
-
-### Admin Activities
-![Admin Activities Screenshot](img/admin-activities.jpg)
-
-### Admin Bookings
-![Admin Bookings Screenshot](img/admin-bookings.jpg)
-
-### Admin Users
-![Admin Users Screenshot](img/admin-users.jpg)
-
-### Login Page
-![Login Page Screenshot](img/login.jpg)
-
-### Register Page
-![Register Page Screenshot](img/register.jpg)
-
-### User Dashboard
-![User Dashboard Screenshot](img/user-dashboard.jpg)
-
-### Postman Testing
-![Postman Screenshot](img/register.jpg)
 
